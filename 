@@ -1,0 +1,520 @@
+[33mcommit c790a40c3faa359bc044c445bd6fabe9302685e6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mlevel6_water[m[33m, [m[1;32mlevel6[m[33m)[m
+Merge: f1f75a9 224c7e3
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 08:29:09 2018 +0100
+
+    Merge branch 'level6' into level6_water
+
+[33mcommit 224c7e3df2d521ab787c785da34ceabfb02299a7[m
+Merge: aeeb766 99b5106
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 08:28:47 2018 +0100
+
+    Merge branch 'master' into level6
+
+[33mcommit f1f75a93c600501681151ea93661fdc4ee1be0ae[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 08:27:30 2018 +0100
+
+    Level 6
+
+[33mcommit 99b51066232bfc19873d15ad9cd796a6a174ae48[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sun Jan 28 07:29:48 2018 +0100
+
+    some char and map changes
+
+[33mcommit 22ecdeed8e164152ea02fff0fd598e444cfb72ac[m
+Merge: 7124362 aeeb766
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 06:53:16 2018 +0100
+
+    Merge branch 'level6' into level6_water
+
+[33mcommit aeeb766f5b9b30044a3612f2094b978555984fb0[m
+Merge: 1c1f038 be0d7c8
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 06:53:00 2018 +0100
+
+    Merge branch 'master' into level6
+
+[33mcommit 71243628723c7859ce28af567838907d03ab52aa[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 06:47:54 2018 +0100
+
+    water effect
+
+[33mcommit be0d7c8b2f074e5691ba045882023cdc186eb96c[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sun Jan 28 06:31:06 2018 +0100
+
+    UI, highscores
+
+[33mcommit 1c1f0387ee44d9dacd051d4788ac07961e604a51[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 06:03:34 2018 +0100
+
+    styleset
+
+[33mcommit 9d885ebc6c8f4ddd9f4369e479208205b601d5fb[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sun Jan 28 04:23:04 2018 +0100
+
+    make flying level easier
+
+[33mcommit 6ef525c868a69b1117ee510972522cbd70648d3b[m
+Merge: 06d2590 7fae045
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 03:47:54 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit 06d2590fe4b503c8d2b8da10ddaf262331da24eb[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 03:47:47 2018 +0100
+
+    firewall added to Finalmap
+
+[33mcommit 7fae045fc09cabf25ac9eb81544003ab61d52c41[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sun Jan 28 03:43:52 2018 +0100
+
+    hit fix
+
+[33mcommit c5246c53727891673f959070d84290183f734123[m
+Merge: fe452ac 4e02d9c
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sun Jan 28 03:31:08 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit fe452ac220fc7cefa78cacbf9201f77ac6452abb[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sun Jan 28 03:30:31 2018 +0100
+
+    na dzisiaj kunic. dźwięk odtwarza się po kolei
+
+[33mcommit 0a1b85b59cd13c109063ba117ec6e429696cb84b[m
+Merge: 381eae5 40e69a2
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sun Jan 28 03:29:34 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit 381eae5b235eaa1b8a11adb450371309742ec368[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sun Jan 28 02:50:55 2018 +0100
+
+    music ongoing
+
+[33mcommit 4e02d9c401dd566a548dea1353ad26d38ec039cc[m
+Merge: 8a8e10e 40e69a2
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 02:50:44 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit 8a8e10e501c0273e47a0d990ee3651e7eefafa37[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 02:49:54 2018 +0100
+
+    particle bullet
+
+[33mcommit 40e69a20c5b20f152b097521c0cdf5f348f7ca70[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sun Jan 28 02:45:15 2018 +0100
+
+    Integrate falling into final
+
+[33mcommit 07e850c30b98cde5c0b950d2a6ffa4681b43cbcb[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sun Jan 28 02:11:01 2018 +0100
+
+    again final wav
+
+[33mcommit af5e3a0f1428a335e431ec06fbbe81a61218978c[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sun Jan 28 02:08:35 2018 +0100
+
+    Final audio upodate, first musin on scene
+
+[33mcommit f13318f9b8ea1bda5d2863bd163ce80b3e0c3c14[m
+Merge: 9121622 a81936a
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 02:03:23 2018 +0100
+
+    merge conflict res
+
+[33mcommit 9121622ae015bf50781f3393f2d94f149005af46[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sun Jan 28 02:00:45 2018 +0100
+
+    firewall
+
+[33mcommit a81936a66cd9fd1aff543772b827129628610c34[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sun Jan 28 01:31:02 2018 +0100
+
+    changed all waves to correct format
+
+[33mcommit 68b8b50d24823d50754ae8d761d881d68389fe4c[m
+Merge: e893898 30bcbb6
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sun Jan 28 01:07:49 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit e893898043aa83b9f328da3e6f368dc913289f0b[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sun Jan 28 00:59:05 2018 +0100
+
+    ogg to wav
+
+[33mcommit 30bcbb68cd2bacdada725451b2e54684e51e5f38[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sun Jan 28 00:53:20 2018 +0100
+
+    level with falling guys
+
+[33mcommit 4342145ceb6662210ec7900501441f6e6f88de2f[m
+Merge: a164752 3dd50da
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sun Jan 28 00:24:53 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit a164752c13758f231ad5416ea9fe2ee26c586e9d[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sun Jan 28 00:24:43 2018 +0100
+
+    music
+
+[33mcommit 3dd50dae6888e99347cb1a6c44fed54fb3a4a708[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 22:44:53 2018 +0100
+
+    Level sky WIP
+
+[33mcommit 91133511f06415ee9e2d8255de415a285093e396[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 22:36:24 2018 +0100
+
+    enemy turret killing player
+
+[33mcommit 7083b2809b026851b23421592aca2086e987853f[m
+Merge: 38d4a84 eaa88f4
+Author: chionae <35850689+chionae@users.noreply.github.com>
+Date:   Sat Jan 27 22:02:52 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit 38d4a84c2c52756133f812f207474485d3b8b11b[m
+Author: chionae <35850689+chionae@users.noreply.github.com>
+Date:   Sat Jan 27 22:01:31 2018 +0100
+
+    LevelAlex
+
+[33mcommit eaa88f48961d9f04ceae5cb0f0e140110f0b3d07[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 21:55:17 2018 +0100
+
+    Audio the beginning
+
+[33mcommit b6c9cc0eed9e588cfc1dcbc33cfc0523d2d8f4b4[m
+Merge: a72e73c 60d65ca
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 21:40:49 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit a72e73cce3e56e791997e1c7e359827b4a24be8f[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 21:40:43 2018 +0100
+
+    matrix particles wip
+
+[33mcommit 60d65cae195f6696433cacad608493797af9c479[m
+Merge: ecdf288 58acc77
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 21:39:37 2018 +0100
+
+    cinflict result
+
+[33mcommit 58acc77c9cd3fb197fcd951e7a45a5857a32874b[m
+Merge: 9beb34e e08b402
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 21:32:53 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit 9beb34e8cff7ebfa35266b99c6b5c5f96338d4aa[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 21:32:31 2018 +0100
+
+    Player improvements
+
+[33mcommit e08b40269fc741093d6246731daf1fb131677495[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 21:06:42 2018 +0100
+
+    matrix particles wip
+
+[33mcommit 214a4162e42db5d082482d0ce69f7b21784d72b5[m
+Merge: 793c12f 51c302f
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 20:45:15 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit 793c12febae6306066334579909eb3e6360d95f2[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 20:44:55 2018 +0100
+
+    Player improvements
+
+[33mcommit 51c302f58d9724fae2f00046129863f7ca86ad3c[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 20:41:45 2018 +0100
+
+    death sequence
+
+[33mcommit ecdf288c63272b83333f88cd4841df10bd3fbefc[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 20:37:22 2018 +0100
+
+    lvl 3 fix
+
+[33mcommit cc071850c228a03b3ef6eadfd98aba6ed940b0d3[m
+Merge: 80353f6 b143c26
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 20:14:52 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit 80353f6fc1c43cf86942c679742d45cca9e3ab89[m
+Merge: c43ee82 a268f09
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 20:14:30 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit b143c26abe75483fc1895a5edb823c45ffb5ccf8[m
+Merge: 8e5e7c2 a268f09
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 20:14:29 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit c43ee82ad7cc6a59f1cbf0f8ed9b677b1e326307[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 20:14:16 2018 +0100
+
+    so many falling guys
+
+[33mcommit a268f093a8e938efa692027b9c6cb37d2f6462c7[m
+Merge: 5a69c9c 83867cd
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 20:12:06 2018 +0100
+
+    Merge branch 'master' of https://github.com/cinabaar/TransmissionImpossible
+
+[33mcommit 5a69c9ceff5c7c135afa9f1a94209961ec788ffb[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 20:10:47 2018 +0100
+
+    conf res
+
+[33mcommit 8e5e7c268ba00184b890366702119e0300057481[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 20:08:36 2018 +0100
+
+    respawn falling, walls
+
+[33mcommit 2169f315df9d95ed8c695562115cbadf1b19aa3e[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 20:07:36 2018 +0100
+
+    map change lvl 3
+
+[33mcommit 83867cdc5ea416e420b8d1f84b41afaf59121f04[m[33m ([m[1;32mrespawnWall[m[33m)[m
+Merge: 1f0a7ea 2636e38
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 19:50:35 2018 +0100
+
+    Merge branch 'master' into respawnWall
+
+[33mcommit 1f0a7ea0167b18db36f9aa07a1cc817bd74877e2[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 19:50:15 2018 +0100
+
+    Respawn point added
+
+[33mcommit 2636e38a9fab07cf13173b82ee88eaccf37626b1[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 19:47:34 2018 +0100
+
+    firewall kurwe improve
+
+[33mcommit e02f676dcf1285a94ca062c6e3380a358d3f58c6[m
+Merge: 3dcf5af 3cd22fb
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 19:45:11 2018 +0100
+
+    conflict resolved
+
+[33mcommit 3dcf5af9a537b4a32463f8078f64311adc472ccb[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 19:43:18 2018 +0100
+
+    respawn at wall wip
+
+[33mcommit 3cd22fb5f37d0b9eebc0f00e724f6c9907d89dbe[m
+Merge: 0e7a8d3 7d1f843
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 19:27:28 2018 +0100
+
+    Merge branch 'master' into Level4
+
+[33mcommit 0e7a8d3024e93e375962f60cfc381feb3f5af18e[m
+Merge: 82dde30 d4cd6c5
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 19:26:43 2018 +0100
+
+    Merge branch 'master' into Level4
+
+[33mcommit 7d1f843fbc63fbae7e904a03567b4d1fb6c78602[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 19:23:56 2018 +0100
+
+    Better player teleport
+
+[33mcommit d4cd6c5c725cef7bfcb0f63760e8665916ebbf09[m
+Merge: e59a97a 818b2a3
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 19:03:34 2018 +0100
+
+    Map changes merge
+
+[33mcommit e59a97a240f2e98ebbf3e8989a10fa9f6b867d45[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 19:00:58 2018 +0100
+
+    Map implementation
+
+[33mcommit 818b2a39bff2696c05da50f960391688afee14d2[m[33m ([m[1;32mtakitakie[m[33m)[m
+Merge: 46c7f61 8b79cd2
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 18:38:18 2018 +0100
+
+    Merge branch 'master' into takitakie
+
+[33mcommit 46c7f61a5638f5192872bd58ce1da351ab0ed3d1[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 18:37:22 2018 +0100
+
+    respawn wall wip
+
+[33mcommit 82dde30a911d56331b5f3b786f31c7432c12d12f[m[33m ([m[1;31morigin/Level4[m[33m)[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 18:34:04 2018 +0100
+
+    Final map update
+
+[33mcommit 8b79cd28f8c1030dbef0d9a1c71b83f8095d6890[m
+Author: chionae <35850689+chionae@users.noreply.github.com>
+Date:   Sat Jan 27 18:25:28 2018 +0100
+
+    nowy level Oli
+
+[33mcommit 6d75fdf1e1c5603d7d71f9273e5c68f11903f64b[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 17:41:24 2018 +0100
+
+    robocik
+
+[33mcommit 283cc5fc20d7fb01398cc4a248213844c6ade08d[m[33m ([m[1;32mrespawnPlayer[m[33m)[m
+Merge: 6495034 dfce09c
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 17:30:57 2018 +0100
+
+    Merge branch 'master' into respawnPlayer
+
+[33mcommit 64950348260ea44a1ed9f3c213428d153bc4377f[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 17:30:26 2018 +0100
+
+    Respawn after death
+
+[33mcommit dfce09c8ee3ae28537564e716d3e8bb8dfbaf0c6[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 17:26:02 2018 +0100
+
+    changes in final map
+
+[33mcommit a8cc289ca155774bf5b05d951f4869444b4cd99e[m[33m ([m[1;32mteleportRotation[m[33m)[m
+Merge: 54d2a25 65cd2f8
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 16:57:28 2018 +0100
+
+    Merge branch 'master' into teleportRotation
+
+[33mcommit 54d2a2511757767464a0791033dca4af12b42320[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 16:57:03 2018 +0100
+
+    teleport
+
+[33mcommit 65cd2f8c7251b522022470ce708e0a98f77fd713[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 16:09:51 2018 +0100
+
+    skończony poziom z antyvirami
+
+[33mcommit 5cdf9efec3e8bf30034aaea09780661ca2743e70[m[33m ([m[1;32mdestMesh[m[33m)[m
+Merge: 04882ef 07ceded
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 16:06:32 2018 +0100
+
+    merge with master
+
+[33mcommit 04882efef0ff6c0c44a774b76f15fada16c27958[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 15:59:07 2018 +0100
+
+    destruction on death
+
+[33mcommit 07cededa091a84d24fb8f68c80f9c33bb15e1d06[m
+Author: Piotr Kucharski <piotr1kucharski@gmail.com>
+Date:   Sat Jan 27 15:31:19 2018 +0100
+
+    dodanie mapy z antyvirami
+
+[33mcommit 3912b632b8098bcd98f65d7565b1dfbe65b18474[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 14:58:04 2018 +0100
+
+    Bullettime
+
+[33mcommit d052d2b62e9ab36f54cf414b77b887be29b63ac9[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 14:04:26 2018 +0100
+
+    New Old Map
+
+[33mcommit a2011c4dd7fde6e6b65ec4632a21ba70151aac97[m
+Author: Wiktor <jizo79@gmail.com>
+Date:   Sat Jan 27 14:03:26 2018 +0100
+
+    New old map
+
+[33mcommit 56b2228250cd01bf298bae8c804d849831f85b0d[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 12:11:25 2018 +0100
+
+    AI
+
+[33mcommit 3bcbe8cbf39c284680256fb3587e0f8a7aad7c79[m
+Author: Dawid Romanowski <dawid.t.romanowski@gmail.com>
+Date:   Sat Jan 27 11:07:58 2018 +0100
+
+    Move repo
